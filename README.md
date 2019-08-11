@@ -1,4 +1,4 @@
-# tensorflow-seq2seq-hindi
+# Tensorflow RNN Tutorials
 
 ### Word Embeddings
 
